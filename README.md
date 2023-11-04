@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Robert</a></h1>
+<h1 align="center">Hi 👋, I'm Robert
 <h3 align="center">An iOS Developer from California.
 
 ### 👨‍💻: About Me : 
